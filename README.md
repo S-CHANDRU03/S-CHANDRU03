@@ -1,4 +1,4 @@
-### <div align="center">I'm Chandru , a full-time full-stack developer 👨‍💻</div>  
+### <div align="left">I'm Chandru , a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 Here is my [Portfolio](https://s-chandru03.github.io/simple-portfolio-website/)  
